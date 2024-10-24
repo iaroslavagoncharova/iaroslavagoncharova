@@ -1,6 +1,6 @@
 ## Hi, I'm Iaroslava! 👩‍💻
 
-👨‍💻 Aspiring Web Developer passionate about all things technology<br/>
+💻 Aspiring Web Developer passionate about all things technology<br/>
 🎓 ICT Student at Metropolia University of Applied Sciences in Helsinki, Finland <br/>
 🌍 Creating web and mobile solutions to solve real-world challenges<br/>
 📚 Currently learning Web3D and web design<br/>
